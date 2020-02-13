@@ -23,7 +23,7 @@ and click on Pay to enter your credit card information.
 
 </div>
 
-![No Man's Land](/images/screenings/nomans.jpg)
+![No Man's Land](/images/screenings/nomans.png)
 
 *What is the No Man’s Land Film Festival?*
 
